@@ -1,0 +1,1137 @@
+﻿year,country_region,l1_industry_name,inflow_outflow_ratio,yoy_change
+2019,Argentina,Manufacturing,0.645072364,
+2020,Argentina,Manufacturing,0.538068907,-0.165878222
+2021,Argentina,Manufacturing,0.340632603,-0.36693498
+2022,Argentina,Manufacturing,0.449824971,0.320557593
+2019,Argentina,Professional Services,0.545168398,
+2020,Argentina,Professional Services,0.53939034,-0.010598665
+2021,Argentina,Professional Services,0.349619377,-0.35182492
+2022,Argentina,Professional Services,0.474252586,0.356482555
+2019,Argentina,"Technology, Information and Media",0.526811594,
+2020,Argentina,"Technology, Information and Media",0.501100837,-0.048804464
+2021,Argentina,"Technology, Information and Media",0.353538462,-0.294476409
+2022,Argentina,"Technology, Information and Media",0.512570549,0.449829664
+2019,Australia,Accommodation and Food Services,2.18556701,
+2020,Australia,Accommodation and Food Services,1.16825276,-0.465469256
+2021,Australia,Accommodation and Food Services,1.354054054,0.159042033
+2022,Australia,Accommodation and Food Services,2.693117978,0.988929444
+2019,Australia,Administrative and Support Services,2.021150033,
+2020,Australia,Administrative and Support Services,1.094672426,-0.458391308
+2021,Australia,Administrative and Support Services,1.352415027,0.235451807
+2022,Australia,Administrative and Support Services,2.042016807,0.509903962
+2019,Australia,Construction,2.970666667,
+2020,Australia,Construction,1.613359337,-0.456903275
+2021,Australia,Construction,1.540468227,-0.045179712
+2022,Australia,Construction,2.587110482,0.679431251
+2019,Australia,Consumer Services,2.077319588,
+2020,Australia,Consumer Services,1.246227709,-0.400078969
+2021,Australia,Consumer Services,1.346418057,0.080394897
+2022,Australia,Consumer Services,1.930653266,0.433918133
+2019,Australia,Education,2.205260686,
+2020,Australia,Education,1.526504481,-0.307789555
+2021,Australia,Education,1.3021007,-0.147004993
+2022,Australia,Education,2.027853261,0.557370532
+2019,Australia,Entertainment Providers,1.621428571,
+2020,Australia,Entertainment Providers,1.208512931,-0.254661628
+2021,Australia,Entertainment Providers,1.129474486,-0.065401406
+2022,Australia,Entertainment Providers,1.671732523,0.480097642
+2019,Australia,Financial Services,2.134587021,
+2020,Australia,Financial Services,1.215653622,-0.430497042
+2021,Australia,Financial Services,1.2150913,-0.000462568
+2022,Australia,Financial Services,1.692145493,0.392607694
+2019,Australia,Government Administration,1.92630854,
+2020,Australia,Government Administration,1.388376754,-0.279255257
+2021,Australia,Government Administration,1.278806584,-0.078919622
+2022,Australia,Government Administration,1.76285869,0.378518621
+2019,Australia,Hospitals and Health Care,2.599827139,
+2020,Australia,Hospitals and Health Care,1.66087344,-0.36116005
+2021,Australia,Hospitals and Health Care,1.821364985,0.096630809
+2022,Australia,Hospitals and Health Care,2.414450867,0.325627146
+2019,Australia,Manufacturing,2.153933542,
+2020,Australia,Manufacturing,1.215129636,-0.435855558
+2021,Australia,Manufacturing,1.117647059,-0.080224014
+2022,Australia,Manufacturing,2.077076082,0.858436494
+2019,Australia,"Oil, Gas, and Mining",2.236061684,
+2020,Australia,"Oil, Gas, and Mining",1.543372658,-0.309780822
+2021,Australia,"Oil, Gas, and Mining",1.403996525,-0.090306209
+2022,Australia,"Oil, Gas, and Mining",2.101710171,0.496948272
+2019,Australia,Professional Services,2.228044814,
+2020,Australia,Professional Services,1.265671642,-0.431936183
+2021,Australia,Professional Services,1.170274305,-0.075372896
+2022,Australia,Professional Services,2.09436346,0.789634662
+2019,Australia,Real Estate and Equipment Rental Services,1.82967033,
+2020,Australia,Real Estate and Equipment Rental Services,1.115942029,-0.390085738
+2021,Australia,Real Estate and Equipment Rental Services,1.189814815,0.066197691
+2022,Australia,Real Estate and Equipment Rental Services,1.755301794,0.475273104
+2019,Australia,Retail,2.25787728,
+2020,Australia,Retail,1.386964448,-0.385721952
+2021,Australia,Retail,1.330567964,-0.04066181
+2022,Australia,Retail,2.129304743,0.600297618
+2019,Australia,"Technology, Information and Media",2.14953271,
+2020,Australia,"Technology, Information and Media",1.193206297,-0.444899679
+2021,Australia,"Technology, Information and Media",1.102362205,-0.076134439
+2022,Australia,"Technology, Information and Media",1.895119418,0.719144044
+2019,Australia,"Transportation, Logistics, Supply Chain and Storage",2.018306636,
+2020,Australia,"Transportation, Logistics, Supply Chain and Storage",1.314986737,-0.34847029
+2021,Australia,"Transportation, Logistics, Supply Chain and Storage",1.313432836,-0.001181686
+2022,Australia,"Transportation, Logistics, Supply Chain and Storage",1.907441016,0.452256228
+2019,Australia,Wholesale,2.328063241,
+2020,Australia,Wholesale,1.174011299,-0.495713313
+2021,Australia,Wholesale,1.011904762,-0.138079197
+2022,Australia,Wholesale,2.090909091,1.06631016
+2019,Austria,Financial Services,1.278409091,
+2020,Austria,Financial Services,1.397755611,0.0933555
+2021,Austria,Financial Services,1.227878788,-0.121535426
+2022,Austria,Financial Services,1.300198807,0.058898338
+2019,Austria,Manufacturing,1.522288262,
+2020,Austria,Manufacturing,1.460852329,-0.040357621
+2021,Austria,Manufacturing,1.463426854,0.001762344
+2022,Austria,Manufacturing,1.563360882,0.068287682
+2019,Austria,Professional Services,1.488933602,
+2020,Austria,Professional Services,1.479377432,-0.00641813
+2021,Austria,Professional Services,1.409486166,-0.047243702
+2022,Austria,Professional Services,1.428343441,0.013378829
+2019,Austria,"Technology, Information and Media",1.35371179,
+2020,Austria,"Technology, Information and Media",1.49185336,0.102046515
+2021,Austria,"Technology, Information and Media",1.531015038,0.026250353
+2022,Austria,"Technology, Information and Media",1.492668622,-0.025046401
+2019,Belgium,Education,1.295774648,
+2020,Belgium,Education,1.069015097,-0.174999219
+2021,Belgium,Education,1.178688525,0.102592964
+2022,Belgium,Education,1.187169811,0.007195528
+2019,Belgium,Financial Services,1.197115385,
+2020,Belgium,Financial Services,1.021843003,-0.14641227
+2021,Belgium,Financial Services,0.994971264,-0.026297326
+2022,Belgium,Financial Services,1.0550585,0.060390925
+2019,Belgium,Government Administration,1.680100756,
+2020,Belgium,Government Administration,1.4248307,-0.15193735
+2021,Belgium,Government Administration,1.540235525,0.080995465
+2022,Belgium,Government Administration,1.638450502,0.063766207
+2019,Belgium,Manufacturing,1.384800385,
+2020,Belgium,Manufacturing,1.230723252,-0.111263064
+2021,Belgium,Manufacturing,1.304733728,0.060135758
+2022,Belgium,Manufacturing,1.313423039,0.006659835
+2019,Belgium,Professional Services,1.49983708,
+2020,Belgium,Professional Services,1.29976489,-0.133395949
+2021,Belgium,Professional Services,1.339689119,0.0307165
+2022,Belgium,Professional Services,1.35348226,0.010295777
+2019,Belgium,"Technology, Information and Media",1.324472961,
+2020,Belgium,"Technology, Information and Media",1.192634561,-0.099540273
+2021,Belgium,"Technology, Information and Media",1.022751896,-0.142443185
+2022,Belgium,"Technology, Information and Media",1.14084507,0.115466102
+2019,Brazil,Education,0.23490488,
+2020,Brazil,Education,0.681597133,1.901587797
+2021,Brazil,Education,0.60266591,-0.115803338
+2022,Brazil,Education,0.478834291,-0.205473078
+2019,Brazil,Financial Services,0.303873432,
+2020,Brazil,Financial Services,0.797569313,1.624676032
+2021,Brazil,Financial Services,0.710593375,-0.109051259
+2022,Brazil,Financial Services,0.489895625,-0.310582335
+2019,Brazil,Manufacturing,0.253892216,
+2020,Brazil,Manufacturing,0.666617905,1.625594108
+2021,Brazil,Manufacturing,0.659453303,-0.010747689
+2022,Brazil,Manufacturing,0.402057437,-0.390317048
+2019,Brazil,Professional Services,0.233218717,
+2020,Brazil,Professional Services,0.664178381,1.847877686
+2021,Brazil,Professional Services,0.614291277,-0.075111002
+2022,Brazil,Professional Services,0.449297403,-0.268592247
+2019,Brazil,"Technology, Information and Media",0.214309049,
+2020,Brazil,"Technology, Information and Media",0.655164319,2.057100581
+2021,Brazil,"Technology, Information and Media",0.601862115,-0.081357001
+2022,Brazil,"Technology, Information and Media",0.467974215,-0.222456102
+2019,Canada,Accommodation and Food Services,2.125659051,
+2020,Canada,Accommodation and Food Services,2.35290977,0.106908358
+2021,Canada,Accommodation and Food Services,3.144620811,0.336481684
+2022,Canada,Accommodation and Food Services,3.801832208,0.208995436
+2019,Canada,Administrative and Support Services,1.686477175,
+2020,Canada,Administrative and Support Services,1.766105055,0.04721551
+2021,Canada,Administrative and Support Services,2.173166927,0.23048565
+2022,Canada,Administrative and Support Services,2.477893891,0.14022253
+2019,Canada,Construction,2.051086957,
+2020,Canada,Construction,2.137954701,0.042352054
+2021,Canada,Construction,2.585467128,0.209318011
+2022,Canada,Construction,2.595619658,0.003926768
+2019,Canada,Consumer Services,1.641316686,
+2020,Canada,Consumer Services,1.769613948,0.078167281
+2021,Canada,Consumer Services,2.153650794,0.217017303
+2022,Canada,Consumer Services,2.213622291,0.027846435
+2019,Canada,Education,1.837856891,
+2020,Canada,Education,1.94285129,0.057128713
+2021,Canada,Education,2.556755655,0.31598114
+2022,Canada,Education,2.492323439,-0.025200772
+2019,Canada,Entertainment Providers,1.306006494,
+2020,Canada,Entertainment Providers,1.362792969,0.043481005
+2021,Canada,Entertainment Providers,1.467932273,0.077149873
+2022,Canada,Entertainment Providers,1.718383312,0.170614846
+2019,Canada,Financial Services,2.136317738,
+2020,Canada,Financial Services,1.985001027,-0.07083062
+2021,Canada,Financial Services,2.109449106,0.062694214
+2022,Canada,Financial Services,2.462595192,0.167411522
+2019,Canada,Government Administration,1.651669086,
+2020,Canada,Government Administration,1.660277325,0.005211842
+2021,Canada,Government Administration,1.830434783,0.102487371
+2022,Canada,Government Administration,2.0781893,0.135352824
+2019,Canada,Hospitals and Health Care,1.577969476,
+2020,Canada,Hospitals and Health Care,1.758634071,0.114491819
+2021,Canada,Hospitals and Health Care,1.862571023,0.059100954
+2022,Canada,Hospitals and Health Care,1.960888889,0.052786103
+2019,Canada,Manufacturing,1.937879156,
+2020,Canada,Manufacturing,1.846746702,-0.047026902
+2021,Canada,Manufacturing,2.10326948,0.138905231
+2022,Canada,Manufacturing,2.356582797,0.12043788
+2019,Canada,"Oil, Gas, and Mining",1.361522199,
+2020,Canada,"Oil, Gas, and Mining",1.760207869,0.292823482
+2021,Canada,"Oil, Gas, and Mining",2.04263276,0.160449737
+2022,Canada,"Oil, Gas, and Mining",2.251101322,0.102058758
+2019,Canada,Professional Services,2.0968,
+2020,Canada,Professional Services,1.899834502,-0.093936235
+2021,Canada,Professional Services,2.195282066,0.155512264
+2022,Canada,Professional Services,2.678056837,0.219914688
+2019,Canada,Real Estate and Equipment Rental Services,1.544933078,
+2020,Canada,Real Estate and Equipment Rental Services,1.692778458,0.095696947
+2021,Canada,Real Estate and Equipment Rental Services,1.648677249,-0.026052558
+2022,Canada,Real Estate and Equipment Rental Services,1.991674376,0.208043829
+2019,Canada,Retail,2.22247883,
+2020,Canada,Retail,2.470121382,0.111426282
+2021,Canada,Retail,3.167365967,0.282271386
+2022,Canada,Retail,3.326736236,0.050316342
+2019,Canada,"Technology, Information and Media",1.614749376,
+2020,Canada,"Technology, Information and Media",1.660784067,0.028508877
+2021,Canada,"Technology, Information and Media",2.011740091,0.211319479
+2022,Canada,"Technology, Information and Media",2.249910905,0.11839045
+2019,Canada,"Transportation, Logistics, Supply Chain and Storage",2.39892905,
+2020,Canada,"Transportation, Logistics, Supply Chain and Storage",2.08913649,-0.129137858
+2021,Canada,"Transportation, Logistics, Supply Chain and Storage",2.495179063,0.194359045
+2022,Canada,"Transportation, Logistics, Supply Chain and Storage",2.815832875,0.128509339
+2019,Canada,Wholesale,1.761301989,
+2020,Canada,Wholesale,2.008433735,0.140311967
+2021,Canada,Wholesale,2.162610619,0.076764736
+2022,Canada,Wholesale,2.531309298,0.170487778
+2019,Chile,Manufacturing,1.683087028,
+2020,Chile,Manufacturing,1.275322284,-0.242271931
+2021,Chile,Manufacturing,0.849775785,-0.333677616
+2022,Chile,Manufacturing,0.775033378,-0.087955445
+2019,Chile,Professional Services,1.403846154,
+2020,Chile,Professional Services,1.09721519,-0.218422057
+2021,Chile,Professional Services,0.732065687,-0.332796616
+2022,Chile,Professional Services,0.674895688,-0.078094083
+2019,China,Education,0.29019725,
+2020,China,Education,0.740148862,1.550502668
+2021,China,Education,0.576671295,-0.220871199
+2022,China,Education,0.48745132,-0.154715479
+2019,China,Financial Services,0.415064103,
+2020,China,Financial Services,1.214629741,1.926366635
+2021,China,Financial Services,0.857080324,-0.294369062
+2022,China,Financial Services,0.708642941,-0.173189582
+2019,China,Manufacturing,0.500096918,
+2020,China,Manufacturing,1.001961059,1.003533761
+2021,China,Manufacturing,0.907027552,-0.094747701
+2022,China,Manufacturing,1.629766005,0.796820838
+2019,China,Professional Services,0.387130362,
+2020,China,Professional Services,1.046454768,1.703106936
+2021,China,Professional Services,0.743665595,-0.289347597
+2022,China,Professional Services,0.573013871,-0.229473737
+2019,China,"Technology, Information and Media",0.353385351,
+2020,China,"Technology, Information and Media",1.084097517,2.067748886
+2021,China,"Technology, Information and Media",0.735412787,-0.321635946
+2022,China,"Technology, Information and Media",0.638741135,-0.131452232
+2019,Colombia,Professional Services,0.376497874,
+2020,Colombia,Professional Services,0.819888918,1.177672106
+2021,Colombia,Professional Services,0.622588424,-0.240642957
+2022,Colombia,Professional Services,0.48869814,-0.215054246
+2019,Denmark,Manufacturing,1.531058618,
+2020,Denmark,Manufacturing,1.338983051,-0.125452785
+2021,Denmark,Manufacturing,1.582049565,0.181530688
+2022,Denmark,Manufacturing,1.644036697,0.039181536
+2019,Denmark,Professional Services,1.463207547,
+2020,Denmark,Professional Services,1.346783981,-0.079567363
+2021,Denmark,Professional Services,1.339144737,-0.005672212
+2022,Denmark,Professional Services,1.565772251,0.169233025
+2019,Denmark,"Technology, Information and Media",1.341191067,
+2020,Denmark,"Technology, Information and Media",1.303220738,-0.028310902
+2021,Denmark,"Technology, Information and Media",1.368923611,0.050415767
+2022,Denmark,"Technology, Information and Media",1.366132723,-0.002038746
+2019,Finland,Manufacturing,1.196581197,
+2020,Finland,Manufacturing,1.224390244,0.023240418
+2021,Finland,Manufacturing,1.380681818,0.127648497
+2022,Finland,Manufacturing,1.381432896,0.000543991
+2019,Finland,Professional Services,1.441064639,
+2020,Finland,Professional Services,1.372093023,-0.04786157
+2021,Finland,Professional Services,1.386924616,0.010809466
+2022,Finland,Professional Services,1.375333689,-0.008357287
+2019,France,Accommodation and Food Services,1.420304071,
+2020,France,Accommodation and Food Services,1.322812052,-0.068641653
+2021,France,Accommodation and Food Services,1.173125,-0.113158216
+2022,France,Accommodation and Food Services,0.957997152,-0.183380158
+2019,France,Administrative and Support Services,1.260623229,
+2020,France,Administrative and Support Services,1.203384885,-0.045404799
+2021,France,Administrative and Support Services,1.094895288,-0.090153697
+2022,France,Administrative and Support Services,0.94156337,-0.140042541
+2019,France,Construction,1.706866197,
+2020,France,Construction,1.304534606,-0.235713609
+2021,France,Construction,1.178403756,-0.096686473
+2022,France,Construction,0.960548173,-0.184873463
+2019,France,Consumer Services,1.565758755,
+2020,France,Consumer Services,1.284492376,-0.179635833
+2021,France,Consumer Services,1.132922854,-0.11799955
+2022,France,Consumer Services,1.038361508,-0.083466712
+2019,France,Education,1.671321526,
+2020,France,Education,1.312151811,-0.214901627
+2021,France,Education,1.273315364,-0.029597526
+2022,France,Education,1.156129826,-0.092031826
+2019,France,Entertainment Providers,1.380113279,
+2020,France,Entertainment Providers,1.248925501,-0.095055804
+2021,France,Entertainment Providers,1.138297872,-0.088578245
+2022,France,Entertainment Providers,1.008201893,-0.114289926
+2019,France,Financial Services,1.334845735,
+2020,France,Financial Services,1.089321357,-0.183934646
+2021,France,Financial Services,1.040498442,-0.04481957
+2022,France,Financial Services,0.884418356,-0.150005113
+2019,France,Government Administration,1.511130137,
+2020,France,Government Administration,1.152399481,-0.237392298
+2021,France,Government Administration,1.118460873,-0.029450385
+2022,France,Government Administration,1.031882398,-0.077408587
+2019,France,Hospitals and Health Care,1.51779661,
+2020,France,Hospitals and Health Care,1.29202773,-0.148747783
+2021,France,Hospitals and Health Care,1.105636579,-0.144262501
+2022,France,Hospitals and Health Care,1.036960276,-0.062114716
+2019,France,Manufacturing,1.373211091,
+2020,France,Manufacturing,1.234732824,-0.100842666
+2021,France,Manufacturing,1.117885264,-0.094633882
+2022,France,Manufacturing,0.955427798,-0.145325707
+2019,France,"Oil, Gas, and Mining",1.9025,
+2020,France,"Oil, Gas, and Mining",1.339076923,-0.296148792
+2021,France,"Oil, Gas, and Mining",1.325501037,-0.010138242
+2022,France,"Oil, Gas, and Mining",1.077858881,-0.186829093
+2019,France,Professional Services,1.622798391,
+2020,France,Professional Services,1.308318494,-0.193788642
+2021,France,Professional Services,1.194121563,-0.087285269
+2022,France,Professional Services,1.095051971,-0.08296441
+2019,France,Real Estate and Equipment Rental Services,1.566318927,
+2020,France,Real Estate and Equipment Rental Services,1.356972112,-0.133655293
+2021,France,Real Estate and Equipment Rental Services,1.222050887,-0.099428149
+2022,France,Real Estate and Equipment Rental Services,0.967398536,-0.208381135
+2019,France,Retail,1.306409781,
+2020,France,Retail,1.185312286,-0.092694878
+2021,France,Retail,1.077501174,-0.090955871
+2022,France,Retail,0.929912623,-0.136972984
+2019,France,"Technology, Information and Media",1.485505817,
+2020,France,"Technology, Information and Media",1.270725834,-0.144583738
+2021,France,"Technology, Information and Media",1.164332923,-0.083726095
+2022,France,"Technology, Information and Media",1.067790191,-0.082916775
+2019,France,"Transportation, Logistics, Supply Chain and Storage",1.542709867,
+2020,France,"Transportation, Logistics, Supply Chain and Storage",1.194915254,-0.225443955
+2021,France,"Transportation, Logistics, Supply Chain and Storage",1.218181818,0.019471309
+2022,France,"Transportation, Logistics, Supply Chain and Storage",1.00710546,-0.173271637
+2019,France,Wholesale,1.409389671,
+2020,France,Wholesale,1.235534775,-0.12335474
+2021,France,Wholesale,1.230135374,-0.004370092
+2022,France,Wholesale,1.016666667,-0.173532695
+2019,Germany,Accommodation and Food Services,1.619852165,
+2020,Germany,Accommodation and Food Services,1.502262443,-0.072592872
+2021,Germany,Accommodation and Food Services,1.463000679,-0.02613509
+2022,Germany,Accommodation and Food Services,1.290306627,-0.118040992
+2019,Germany,Administrative and Support Services,1.551622419,
+2020,Germany,Administrative and Support Services,1.515124945,-0.023522136
+2021,Germany,Administrative and Support Services,1.275470048,-0.158175006
+2022,Germany,Administrative and Support Services,1.376914856,0.079535233
+2019,Germany,Construction,2.07781457,
+2020,Germany,Construction,1.630372493,-0.215342641
+2021,Germany,Construction,1.650355872,0.012256941
+2022,Germany,Construction,1.634955752,-0.009331393
+2019,Germany,Consumer Services,1.729662078,
+2020,Germany,Consumer Services,1.544176707,-0.107237924
+2021,Germany,Consumer Services,1.516297262,-0.018054569
+2022,Germany,Consumer Services,1.29584866,-0.145386137
+2019,Germany,Education,1.600914205,
+2020,Germany,Education,1.445639188,-0.096991467
+2021,Germany,Education,1.399342487,-0.032025073
+2022,Germany,Education,1.329342273,-0.050023646
+2019,Germany,Entertainment Providers,1.542829644,
+2020,Germany,Entertainment Providers,1.400908575,-0.091987518
+2021,Germany,Entertainment Providers,1.31747851,-0.059554254
+2022,Germany,Entertainment Providers,1.31824545,0.000582127
+2019,Germany,Financial Services,1.80162372,
+2020,Germany,Financial Services,1.49026512,-0.172821104
+2021,Germany,Financial Services,1.447252306,-0.028862525
+2022,Germany,Financial Services,1.396400701,-0.035136655
+2019,Germany,Government Administration,1.222776392,
+2020,Germany,Government Administration,1.234803658,0.00983603
+2021,Germany,Government Administration,1.176843775,-0.046938542
+2022,Germany,Government Administration,1.230732177,0.045790617
+2019,Germany,Hospitals and Health Care,1.790811339,
+2020,Germany,Hospitals and Health Care,1.689579924,-0.056528241
+2021,Germany,Hospitals and Health Care,1.746987952,0.033977693
+2022,Germany,Hospitals and Health Care,1.501970055,-0.140251624
+2019,Germany,Manufacturing,1.737036278,
+2020,Germany,Manufacturing,1.428629223,-0.177547849
+2021,Germany,Manufacturing,1.450371945,0.01521929
+2022,Germany,Manufacturing,1.438928639,-0.007889911
+2019,Germany,Professional Services,2.011605416,
+2020,Germany,Professional Services,1.589464019,-0.209852983
+2021,Germany,Professional Services,1.570632911,-0.011847458
+2022,Germany,Professional Services,1.558424876,-0.007772685
+2019,Germany,Retail,1.93631539,
+2020,Germany,Retail,1.653863135,-0.145870997
+2021,Germany,Retail,1.928380783,0.165985711
+2022,Germany,Retail,1.717853527,-0.109173073
+2019,Germany,"Technology, Information and Media",2.152195912,
+2020,Germany,"Technology, Information and Media",1.650747357,-0.232993917
+2021,Germany,"Technology, Information and Media",1.643655641,-0.004296064
+2022,Germany,"Technology, Information and Media",1.646994259,0.002031215
+2019,Germany,"Transportation, Logistics, Supply Chain and Storage",1.6696,
+2020,Germany,"Transportation, Logistics, Supply Chain and Storage",1.530126582,-0.083537025
+2021,Germany,"Transportation, Logistics, Supply Chain and Storage",1.544290835,0.009256915
+2022,Germany,"Transportation, Logistics, Supply Chain and Storage",1.467352592,-0.049821083
+2019,Germany,Wholesale,1.481744422,
+2020,Germany,Wholesale,1.337671233,-0.097232145
+2021,Germany,Wholesale,1.481180812,0.107283147
+2022,Germany,Wholesale,1.438853503,-0.028576733
+2019,India,Accommodation and Food Services,0.809069212,
+2020,India,Accommodation and Food Services,0.642525688,-0.205845831
+2021,India,Accommodation and Food Services,0.479716981,-0.253388634
+2022,India,Accommodation and Food Services,0.281471455,-0.413255178
+2019,India,Administrative and Support Services,0.629489005,
+2020,India,Administrative and Support Services,0.661759425,0.051264471
+2021,India,Administrative and Support Services,0.46515572,-0.297092414
+2022,India,Administrative and Support Services,0.367000623,-0.211015565
+2019,India,Construction,1.023435346,
+2020,India,Construction,0.699418605,-0.316597177
+2021,India,Construction,0.648008611,-0.073503897
+2022,India,Construction,0.431526527,-0.33407285
+2019,India,Consumer Services,0.705622933,
+2020,India,Consumer Services,0.68130145,-0.034468101
+2021,India,Consumer Services,0.47508753,-0.302676473
+2022,India,Consumer Services,0.360900673,-0.240349093
+2019,India,Education,0.329431438,
+2020,India,Education,0.481208352,0.460723829
+2021,India,Education,0.28728515,-0.402992178
+2022,India,Education,0.240061995,-0.164377293
+2019,India,Entertainment Providers,0.816257409,
+2020,India,Entertainment Providers,0.687334393,-0.157944068
+2021,India,Entertainment Providers,0.531923228,-0.22610707
+2022,India,Entertainment Providers,0.373967531,-0.296952058
+2019,India,Financial Services,0.584206081,
+2020,India,Financial Services,0.614332294,0.051567783
+2021,India,Financial Services,0.503626473,-0.180205113
+2022,India,Financial Services,0.316788152,-0.370985901
+2019,India,Government Administration,0.704021866,
+2020,India,Government Administration,0.628835979,-0.106794819
+2021,India,Government Administration,0.549575071,-0.12604385
+2022,India,Government Administration,0.426841407,-0.223324657
+2019,India,Hospitals and Health Care,0.530160487,
+2020,India,Hospitals and Health Care,0.44727973,-0.156331448
+2021,India,Hospitals and Health Care,0.385823981,-0.137398914
+2022,India,Hospitals and Health Care,0.311253197,-0.193276696
+2019,India,Manufacturing,0.734236494,
+2020,India,Manufacturing,0.69143028,-0.058300309
+2021,India,Manufacturing,0.568926746,-0.177174095
+2022,India,Manufacturing,0.381959736,-0.328631079
+2019,India,"Oil, Gas, and Mining",1.06274057,
+2020,India,"Oil, Gas, and Mining",0.763180272,-0.281875282
+2021,India,"Oil, Gas, and Mining",0.733962937,-0.038283662
+2022,India,"Oil, Gas, and Mining",0.441069749,-0.399057191
+2019,India,Professional Services,0.60584201,
+2020,India,Professional Services,0.680216253,0.12276178
+2021,India,Professional Services,0.540127145,-0.205947899
+2022,India,Professional Services,0.327392198,-0.393860869
+2019,India,Real Estate and Equipment Rental Services,1.063218391,
+2020,India,Real Estate and Equipment Rental Services,0.750153846,-0.294449896
+2021,India,Real Estate and Equipment Rental Services,0.56302521,-0.249453678
+2022,India,Real Estate and Equipment Rental Services,0.407500902,-0.276229742
+2019,India,Retail,0.648884578,
+2020,India,Retail,0.506867139,-0.218863946
+2021,India,Retail,0.386002347,-0.238454582
+2022,India,Retail,0.279990384,-0.274640722
+2019,India,"Technology, Information and Media",0.52975031,
+2020,India,"Technology, Information and Media",0.620973126,0.172199647
+2021,India,"Technology, Information and Media",0.488642542,-0.21310195
+2022,India,"Technology, Information and Media",0.317755081,-0.349718754
+2019,India,"Transportation, Logistics, Supply Chain and Storage",0.777737752,
+2020,India,"Transportation, Logistics, Supply Chain and Storage",0.625024515,-0.196355696
+2021,India,"Transportation, Logistics, Supply Chain and Storage",0.549512078,-0.12081516
+2022,India,"Transportation, Logistics, Supply Chain and Storage",0.323599913,-0.411114103
+2019,India,Utilities,0.647679325,
+2020,India,Utilities,0.633253779,-0.022272667
+2021,India,Utilities,0.534696406,-0.155636454
+2022,India,Utilities,0.40536105,-0.241885591
+2019,India,Wholesale,0.730294397,
+2020,India,Wholesale,0.708579368,-0.029734624
+2021,India,Wholesale,0.571119524,-0.193993574
+2022,India,Wholesale,0.380517504,-0.33373403
+2019,Indonesia,Manufacturing,1.395488722,
+2020,Indonesia,Manufacturing,1.280062064,-0.082714146
+2021,Indonesia,Manufacturing,1.115886416,-0.128256006
+2022,Indonesia,Manufacturing,0.923606763,-0.172311134
+2019,Indonesia,Professional Services,1.233364574,
+2020,Indonesia,Professional Services,1.055985435,-0.143817281
+2021,Indonesia,Professional Services,0.937952899,-0.111774777
+2022,Indonesia,Professional Services,0.892531261,-0.048426353
+2019,Indonesia,"Technology, Information and Media",1.368515206,
+2020,Indonesia,"Technology, Information and Media",1.196097561,-0.125988841
+2021,Indonesia,"Technology, Information and Media",0.989084803,-0.173073472
+2022,Indonesia,"Technology, Information and Media",0.909552846,-0.080409644
+2019,Ireland,Financial Services,0.776456599,
+2020,Ireland,Financial Services,1.322580645,0.703354246
+2021,Ireland,Financial Services,1.053211009,-0.203669725
+2022,Ireland,Financial Services,1.20662768,0.145665655
+2019,Ireland,Manufacturing,0.790677221,
+2020,Ireland,Manufacturing,1.282430853,0.6219398
+2021,Ireland,Manufacturing,1.205448354,-0.060028577
+2022,Ireland,Manufacturing,1.482823826,0.230101498
+2019,Ireland,Professional Services,0.841905565,
+2020,Ireland,Professional Services,1.319239721,0.566968762
+2021,Ireland,Professional Services,1.185455811,-0.101409856
+2022,Ireland,Professional Services,1.588148585,0.339694462
+2019,Ireland,"Technology, Information and Media",0.755050505,
+2020,Ireland,"Technology, Information and Media",1.151169265,0.524625515
+2021,Ireland,"Technology, Information and Media",1.105104408,-4.00E-02
+2022,Ireland,"Technology, Information and Media",1.37213661,0.241635269
+2019,Israel,Professional Services,0.611428571,
+2020,Israel,Professional Services,1.19921875,0.961339077
+2021,Israel,Professional Services,1.206621704,0.006173148
+2022,Israel,Professional Services,1.403187998,0.162906313
+2019,Italy,Accommodation and Food Services,1.005411906,
+2020,Italy,Accommodation and Food Services,1.062971342,0.057249607
+2021,Italy,Accommodation and Food Services,1.113216485,0.047268577
+2022,Italy,Accommodation and Food Services,0.861256545,-0.226335079
+2019,Italy,Administrative and Support Services,0.99729973,
+2020,Italy,Administrative and Support Services,0.95991778,-0.037483165
+2021,Italy,Administrative and Support Services,1.110054348,0.156405654
+2022,Italy,Administrative and Support Services,0.874873354,-0.211864396
+2019,Italy,Construction,0.970967742,
+2020,Italy,Construction,0.996483001,0.026278174
+2021,Italy,Construction,1.248648649,0.253055644
+2022,Italy,Construction,1.134310134,-0.091569806
+2019,Italy,Consumer Services,0.840213049,
+2020,Italy,Consumer Services,0.991472868,0.180025553
+2021,Italy,Consumer Services,0.936647955,-0.055296433
+2022,Italy,Consumer Services,0.869250986,-0.071955497
+2019,Italy,Education,0.930301532,
+2020,Italy,Education,0.909930716,-0.021897004
+2021,Italy,Education,1.038688525,0.141502871
+2022,Italy,Education,0.970403353,-0.065741722
+2019,Italy,Entertainment Providers,0.95584989,
+2020,Italy,Entertainment Providers,0.988117573,0.033758108
+2021,Italy,Entertainment Providers,1.035050072,0.047496876
+2022,Italy,Entertainment Providers,0.980099502,-0.053089769
+2019,Italy,Financial Services,0.851253482,
+2020,Italy,Financial Services,0.835434174,-0.018583546
+2021,Italy,Financial Services,0.872121004,0.04391349
+2022,Italy,Financial Services,0.719525648,-0.174970394
+2019,Italy,Government Administration,0.886577181,
+2020,Italy,Government Administration,0.935902988,0.055636225
+2021,Italy,Government Administration,0.995561474,0.063744305
+2022,Italy,Government Administration,0.999201278,0.003656032
+2019,Italy,Hospitals and Health Care,0.872750643,
+2020,Italy,Hospitals and Health Care,0.900136799,0.03137913
+2021,Italy,Hospitals and Health Care,1.043583535,0.15936104
+2022,Italy,Hospitals and Health Care,0.924110141,-0.114483786
+2019,Italy,Manufacturing,1.022868134,
+2020,Italy,Manufacturing,1.015310718,-0.007388456
+2021,Italy,Manufacturing,1.094752929,0.078244236
+2022,Italy,Manufacturing,0.915885154,-0.163386432
+2019,Italy,Professional Services,0.935404111,
+2020,Italy,Professional Services,0.936989268,0.001694624
+2021,Italy,Professional Services,1.017757697,0.08619995
+2022,Italy,Professional Services,0.891523755,-0.124031429
+2019,Italy,Retail,1.005344418,
+2020,Italy,Retail,0.995881384,-0.009412729
+2021,Italy,Retail,1.022211939,0.026439449
+2022,Italy,Retail,0.858646617,-0.160011164
+2019,Italy,"Technology, Information and Media",0.9,
+2020,Italy,"Technology, Information and Media",0.918264111,0.020293456
+2021,Italy,"Technology, Information and Media",1.026831232,0.118230822
+2022,Italy,"Technology, Information and Media",0.87749004,-0.145438887
+2019,Italy,"Transportation, Logistics, Supply Chain and Storage",1.023076923,
+2020,Italy,"Transportation, Logistics, Supply Chain and Storage",1.009015778,-0.013743977
+2021,Italy,"Transportation, Logistics, Supply Chain and Storage",1.108974359,0.099065429
+2022,Italy,"Transportation, Logistics, Supply Chain and Storage",0.890495868,-0.197009507
+2019,Italy,Wholesale,1.039138943,
+2020,Italy,Wholesale,1.087743733,0.0467741
+2021,Italy,Wholesale,1.08774584,1.94E-06
+2022,Italy,Wholesale,0.832752613,-0.234423536
+2019,Japan,Manufacturing,0.58709309,
+2020,Japan,Manufacturing,1.214038728,1.06788114
+2021,Japan,Manufacturing,1.035177596,-0.147327369
+2022,Japan,Manufacturing,0.998805614,-0.035135983
+2019,Japan,Professional Services,0.650659134,
+2020,Japan,Professional Services,1.348962774,1.073224986
+2021,Japan,Professional Services,1.196519652,-0.113007656
+2022,Japan,Professional Services,1.288166931,0.07659488
+2019,Japan,"Technology, Information and Media",0.712401055,
+2020,Japan,"Technology, Information and Media",1.53311074,1.152033224
+2021,Japan,"Technology, Information and Media",1.142352347,-0.254879431
+2022,Japan,"Technology, Information and Media",1.324062368,0.159066527
+2019,Luxembourg,Professional Services,1.637735849,
+2020,Luxembourg,Professional Services,2.016393443,0.231207978
+2021,Luxembourg,Professional Services,1.704684318,-0.154587452
+2022,Luxembourg,Professional Services,1.889085546,0.108173241
+2019,Malaysia,Education,0.799410029,
+2020,Malaysia,Education,0.947678703,0.185472621
+2021,Malaysia,Education,0.702083333,-0.259154679
+2022,Malaysia,Education,0.675642595,-0.037660399
+2019,Malaysia,Financial Services,0.791515152,
+2020,Malaysia,Financial Services,1.053097345,0.330482863
+2021,Malaysia,Financial Services,0.905080214,-0.140554083
+2022,Malaysia,Financial Services,0.76201373,-0.158070502
+2019,Malaysia,Manufacturing,0.865622962,
+2020,Malaysia,Manufacturing,0.823897187,-0.048203175
+2021,Malaysia,Manufacturing,0.781216649,-0.051803233
+2022,Malaysia,Manufacturing,0.643199521,-0.176669466
+2019,Malaysia,Professional Services,0.830501618,
+2020,Malaysia,Professional Services,0.929817099,0.119584934
+2021,Malaysia,Professional Services,0.743788187,-0.200070435
+2022,Malaysia,Professional Services,0.682715622,-0.082110158
+2019,Malaysia,"Technology, Information and Media",0.679332715,
+2020,Malaysia,"Technology, Information and Media",0.934868052,0.376156382
+2021,Malaysia,"Technology, Information and Media",0.653193613,-0.301298604
+2022,Malaysia,"Technology, Information and Media",0.742203742,0.136269136
+2019,Mexico,Accommodation and Food Services,0.884196185,
+2020,Mexico,Accommodation and Food Services,0.94354067,0.067116875
+2021,Mexico,Accommodation and Food Services,0.924796748,-0.019865516
+2022,Mexico,Accommodation and Food Services,0.650378527,-0.296733549
+2019,Mexico,Education,0.704456607,
+2020,Mexico,Education,0.750985915,0.066049929
+2021,Mexico,Education,0.665411512,-0.113949413
+2022,Mexico,Education,0.665009042,-0.000604844
+2019,Mexico,Financial Services,0.810981098,
+2020,Mexico,Financial Services,0.896983076,0.106046834
+2021,Mexico,Financial Services,0.795118818,-0.113563188
+2022,Mexico,Financial Services,0.817482133,0.028125752
+2019,Mexico,Manufacturing,0.75464684,
+2020,Mexico,Manufacturing,0.832466407,0.103120509
+2021,Mexico,Manufacturing,0.700057904,-0.159055671
+2022,Mexico,Manufacturing,0.521831585,-0.254587968
+2019,Mexico,Professional Services,0.719101124,
+2020,Mexico,Professional Services,0.859594706,0.195373889
+2021,Mexico,Professional Services,0.811698113,-0.055719972
+2022,Mexico,Professional Services,0.714782609,-0.11939846
+2019,Mexico,"Technology, Information and Media",0.709382151,
+2020,Mexico,"Technology, Information and Media",0.813507625,0.14678333
+2021,Mexico,"Technology, Information and Media",0.767737117,-0.056263158
+2022,Mexico,"Technology, Information and Media",0.759788048,-0.010353894
+2019,Netherlands,Manufacturing,1.264847512,
+2020,Netherlands,Manufacturing,1.493884892,0.181079045
+2021,Netherlands,Manufacturing,1.516981132,0.015460522
+2022,Netherlands,Manufacturing,1.727301893,0.138644283
+2019,Netherlands,Professional Services,1.493455497,
+2020,Netherlands,Professional Services,1.401274562,-0.061723256
+2021,Netherlands,Professional Services,1.449256431,0.03424159
+2022,Netherlands,Professional Services,1.594608605,0.100294311
+2019,New Zealand,Education,1.662251656,
+2020,New Zealand,Education,1.501516684,-0.096697135
+2021,New Zealand,Education,1.265279584,-0.157332318
+2022,New Zealand,Education,1.315175097,0.039434378
+2019,New Zealand,Financial Services,1.520863309,
+2020,New Zealand,Financial Services,1.535714286,0.009764833
+2021,New Zealand,Financial Services,1.239210851,-0.193072004
+2022,New Zealand,Financial Services,0.912757974,-0.263436103
+2019,New Zealand,Government Administration,1.655238095,
+2020,New Zealand,Government Administration,1.842245989,0.112979453
+2021,New Zealand,Government Administration,1.598373984,-0.132377547
+2022,New Zealand,Government Administration,0.982817869,-0.385113947
+2019,New Zealand,Manufacturing,1.829369183,
+2020,New Zealand,Manufacturing,1.672364672,-0.085824399
+2021,New Zealand,Manufacturing,1.3118767,-0.21555584
+2022,New Zealand,Manufacturing,1.18262987,-0.098520562
+2019,New Zealand,Professional Services,1.460770975,
+2020,New Zealand,Professional Services,1.602418208,0.096967447
+2021,New Zealand,Professional Services,1.207819805,-0.246251822
+2022,New Zealand,Professional Services,1.049237171,-0.1312966
+2019,New Zealand,"Technology, Information and Media",1.316518299,
+2020,New Zealand,"Technology, Information and Media",1.53203125,0.163699169
+2021,New Zealand,"Technology, Information and Media",1.145539906,-0.252273799
+2022,New Zealand,"Technology, Information and Media",0.949376376,-0.171241115
+2019,Norway,Manufacturing,1.441821248,
+2020,Norway,Manufacturing,1.14530777,-0.205652038
+2021,Norway,Manufacturing,1.379186603,0.2042061
+2022,Norway,Manufacturing,1.43793911,0.042599389
+2019,Norway,Professional Services,1.738072965,
+2020,Norway,Professional Services,1.403926234,-0.192251268
+2021,Norway,Professional Services,1.453495831,0.035307835
+2022,Norway,Professional Services,1.568764569,0.079304485
+2019,Pakistan,Professional Services,0.245045045,
+2020,Pakistan,Professional Services,0.571209507,1.331038798
+2021,Pakistan,Professional Services,0.510589505,-0.106125689
+2022,Pakistan,Professional Services,0.367723921,-0.279805172
+2019,Peru,Professional Services,0.641683778,
+2020,Peru,Professional Services,0.813660477,0.268008488
+2021,Peru,Professional Services,0.491533396,-0.395898646
+2022,Peru,Professional Services,0.599000384,0.218636189
+2019,Philippines,Accommodation and Food Services,0.779795687,
+2020,Philippines,Accommodation and Food Services,0.857609406,0.099787316
+2021,Philippines,Accommodation and Food Services,0.922205438,0.07532104
+2022,Philippines,Accommodation and Food Services,0.493101686,-0.465301693
+2019,Philippines,Administrative and Support Services,0.720848057,
+2020,Philippines,Administrative and Support Services,0.911016949,0.263812728
+2021,Philippines,Administrative and Support Services,0.698338525,-0.233451665
+2022,Philippines,Administrative and Support Services,0.575444265,-0.175980926
+2019,Philippines,Construction,1.11328125,
+2020,Philippines,Construction,0.950603732,-0.146124367
+2021,Philippines,Construction,1.305555556,0.373396202
+2022,Philippines,Construction,0.731369151,-0.439802353
+2019,Philippines,Financial Services,0.659836066,
+2020,Philippines,Financial Services,0.734251969,0.112779381
+2021,Philippines,Financial Services,0.74173028,0.010184939
+2022,Philippines,Financial Services,0.507632094,-0.315610933
+2019,Philippines,Manufacturing,0.673239437,
+2020,Philippines,Manufacturing,0.749339207,0.113035224
+2021,Philippines,Manufacturing,0.81826611,0.091983581
+2022,Philippines,Manufacturing,0.52698908,-0.355968587
+2019,Philippines,Professional Services,0.60845756,
+2020,Philippines,Professional Services,0.708051747,0.163683047
+2021,Philippines,Professional Services,0.702594081,-0.007708005
+2022,Philippines,Professional Services,0.515924289,-0.265686543
+2019,Philippines,"Technology, Information and Media",0.591174022,
+2020,Philippines,"Technology, Information and Media",0.676352705,0.144083943
+2021,Philippines,"Technology, Information and Media",0.639475909,-0.054523027
+2022,Philippines,"Technology, Information and Media",0.523242301,-0.181763857
+2019,Poland,Financial Services,0.996681416,
+2020,Poland,Financial Services,1.146236559,0.150053107
+2021,Poland,Financial Services,1.207080828,0.053081773
+2022,Poland,Financial Services,1.126839827,-0.066475251
+2019,Poland,Manufacturing,1.181003584,
+2020,Poland,Manufacturing,1.214026163,0.027961455
+2021,Poland,Manufacturing,1.356359649,0.117240872
+2022,Poland,Manufacturing,1.075443038,-0.207110711
+2019,Poland,Professional Services,1.196489726,
+2020,Poland,Professional Services,1.291970803,0.079801
+2021,Poland,Professional Services,1.552208381,0.201426826
+2022,Poland,Professional Services,2.169029685,0.397383053
+2019,Poland,"Technology, Information and Media",1.243705036,
+2020,Poland,"Technology, Information and Media",1.242937853,-0.000616853
+2021,Poland,"Technology, Information and Media",1.736494365,0.397088648
+2022,Poland,"Technology, Information and Media",2.287652105,0.317396792
+2019,Qatar,Construction,0.520676692,
+2020,Qatar,Construction,0.759394827,0.458476707
+2021,Qatar,Construction,1.129774987,0.487730687
+2022,Qatar,Construction,1.121485411,-0.007337369
+2019,Qatar,Manufacturing,0.810773481,
+2020,Qatar,Manufacturing,0.871046229,0.074339812
+2021,Qatar,Manufacturing,1.049180328,0.204505907
+2022,Qatar,Manufacturing,1.520625,0.449345703
+2019,Qatar,Professional Services,0.65776459,
+2020,Qatar,Professional Services,0.852184565,0.295576835
+2021,Qatar,Professional Services,1.064252336,0.248851927
+2022,Qatar,Professional Services,1.488931298,0.399039726
+2019,Saudi Arabia,Accommodation and Food Services,1.400702988,
+2020,Saudi Arabia,Accommodation and Food Services,1.262573964,-0.098614071
+2021,Saudi Arabia,Accommodation and Food Services,1.532467532,0.21376456
+2022,Saudi Arabia,Accommodation and Food Services,1.563339731,0.020145418
+2019,Saudi Arabia,Construction,1.04013104,
+2020,Saudi Arabia,Construction,1.134652697,0.090874758
+2021,Saudi Arabia,Construction,1.237839651,0.090941444
+2022,Saudi Arabia,Construction,2.472351203,0.997311365
+2019,Saudi Arabia,Education,1.32197615,
+2020,Saudi Arabia,Education,1.570898293,0.188295487
+2021,Saudi Arabia,Education,1.178532902,-0.249771352
+2022,Saudi Arabia,Education,1.185700576,0.006081862
+2019,Saudi Arabia,Hospitals and Health Care,1.200357782,
+2020,Saudi Arabia,Hospitals and Health Care,1.188596491,-0.009798154
+2021,Saudi Arabia,Hospitals and Health Care,1.135060639,-0.045041233
+2022,Saudi Arabia,Hospitals and Health Care,1.052173913,-0.073024051
+2019,Saudi Arabia,Manufacturing,1.109865471,
+2020,Saudi Arabia,Manufacturing,1.058733791,-0.04607016
+2021,Saudi Arabia,Manufacturing,1.100546448,0.039493079
+2022,Saudi Arabia,Manufacturing,1.576084293,0.432092481
+2019,Saudi Arabia,"Oil, Gas, and Mining",1.604290822,
+2020,Saudi Arabia,"Oil, Gas, and Mining",1.32674772,-0.173000492
+2021,Saudi Arabia,"Oil, Gas, and Mining",1.127559727,-0.150132531
+2022,Saudi Arabia,"Oil, Gas, and Mining",1.815312985,0.609948406
+2019,Saudi Arabia,Professional Services,1.182393556,
+2020,Saudi Arabia,Professional Services,1.195274831,0.010894237
+2021,Saudi Arabia,Professional Services,1.244127685,0.04087165
+2022,Saudi Arabia,Professional Services,1.74066874,0.399107793
+2019,Saudi Arabia,"Technology, Information and Media",1.077054795,
+2020,Saudi Arabia,"Technology, Information and Media",1.13030303,0.049438744
+2021,Saudi Arabia,"Technology, Information and Media",1.061573546,-0.060806246
+2022,Saudi Arabia,"Technology, Information and Media",1.339546599,0.261850019
+2019,Singapore,Financial Services,0.812770563,
+2020,Singapore,Financial Services,1.123181134,0.381916602
+2021,Singapore,Financial Services,0.941451469,-0.161799072
+2022,Singapore,Financial Services,1.384834539,0.470956904
+2019,Singapore,Manufacturing,0.680503731,
+2020,Singapore,Manufacturing,1.052382028,0.546475029
+2021,Singapore,Manufacturing,0.833499303,-0.207987897
+2022,Singapore,Manufacturing,1.155950752,0.38686469
+2019,Singapore,Professional Services,0.751357531,
+2020,Singapore,Professional Services,1.085783327,0.44509542
+2021,Singapore,Professional Services,0.865279961,-0.203082291
+2022,Singapore,Professional Services,1.383243771,0.59860835
+2019,Singapore,"Technology, Information and Media",0.840172786,
+2020,Singapore,"Technology, Information and Media",1.121655729,0.335029827
+2021,Singapore,"Technology, Information and Media",0.966629588,-0.138211875
+2022,Singapore,"Technology, Information and Media",1.315073892,0.360473451
+2019,South Africa,Education,0.864444444,
+2020,South Africa,Education,0.690919346,-0.200735975
+2021,South Africa,Education,0.824873096,0.193877551
+2022,South Africa,Education,0.581808677,-0.294668865
+2019,South Africa,Financial Services,0.778794813,
+2020,South Africa,Financial Services,0.618825722,-0.205405953
+2021,South Africa,Financial Services,0.682889344,0.103524498
+2022,South Africa,Financial Services,0.507095553,-0.257426466
+2019,South Africa,Government Administration,0.92231405,
+2020,South Africa,Government Administration,0.712303423,-0.227699694
+2021,South Africa,Government Administration,0.9296875,0.305184659
+2022,South Africa,Government Administration,0.704850361,-0.241841628
+2019,South Africa,Manufacturing,0.743105209,
+2020,South Africa,Manufacturing,0.598290598,-0.194877669
+2021,South Africa,Manufacturing,0.680808882,0.137923417
+2022,South Africa,Manufacturing,0.484257358,-0.288702937
+2019,South Africa,Professional Services,0.706824926,
+2020,South Africa,Professional Services,0.534617387,-0.243635351
+2021,South Africa,Professional Services,0.584173483,0.092694509
+2022,South Africa,Professional Services,0.426327364,-0.270204183
+2019,South Africa,"Technology, Information and Media",0.729276896,
+2020,South Africa,"Technology, Information and Media",0.601015228,-0.175875128
+2021,South Africa,"Technology, Information and Media",0.627714581,0.044423754
+2022,South Africa,"Technology, Information and Media",0.544092466,-0.13321678
+2019,Spain,Accommodation and Food Services,1.761458333,
+2020,Spain,Accommodation and Food Services,1.396774194,-0.207035348
+2021,Spain,Accommodation and Food Services,1.449500555,0.037748665
+2022,Spain,Accommodation and Food Services,1.326455625,-0.084887812
+2019,Spain,Administrative and Support Services,1.877012234,
+2020,Spain,Administrative and Support Services,1.260472973,-0.32846843
+2021,Spain,Administrative and Support Services,1.519931419,0.205842133
+2022,Spain,Administrative and Support Services,1.396648045,-0.081111143
+2019,Spain,Construction,2.006402049,
+2020,Spain,Construction,1.449959317,-0.277333614
+2021,Spain,Construction,1.733862959,0.195801109
+2022,Spain,Construction,1.510187449,-0.129004146
+2019,Spain,Consumer Services,1.743097239,
+2020,Spain,Consumer Services,1.2514828,-0.282035006
+2021,Spain,Consumer Services,1.520677966,0.215100972
+2022,Spain,Consumer Services,1.397245763,-0.081169193
+2019,Spain,Education,1.583176868,
+2020,Spain,Education,1.163240132,-0.265249414
+2021,Spain,Education,1.381649585,0.187759559
+2022,Spain,Education,1.308215297,-0.053149719
+2019,Spain,Entertainment Providers,1.895041322,
+2020,Spain,Entertainment Providers,1.410033167,-0.255935398
+2021,Spain,Entertainment Providers,1.453796889,0.03103737
+2022,Spain,Entertainment Providers,1.381062356,-0.05003074
+2019,Spain,Financial Services,1.722428174,
+2020,Spain,Financial Services,1.147878157,-0.333569798
+2021,Spain,Financial Services,1.394998656,0.215284608
+2022,Spain,Financial Services,1.392656004,-0.001679322
+2019,Spain,Government Administration,1.565417488,
+2020,Spain,Government Administration,1.157649588,-0.260485081
+2021,Spain,Government Administration,1.366680446,0.18056488
+2022,Spain,Government Administration,1.202543424,-0.120099049
+2019,Spain,Hospitals and Health Care,1.780149413,
+2020,Spain,Hospitals and Health Care,1.176622039,-0.339031864
+2021,Spain,Hospitals and Health Care,1.359674608,0.155574656
+2022,Spain,Hospitals and Health Care,1.387725975,0.020630942
+2019,Spain,Manufacturing,1.626375953,
+2020,Spain,Manufacturing,1.259617901,-0.225506317
+2021,Spain,Manufacturing,1.397378004,0.109366581
+2022,Spain,Manufacturing,1.316959922,-0.057549269
+2019,Spain,Professional Services,1.791340052,
+2020,Spain,Professional Services,1.306919239,-0.270423704
+2021,Spain,Professional Services,1.526796974,0.168241256
+2022,Spain,Professional Services,1.525078855,-0.001125309
+2019,Spain,Retail,1.775393419,
+2020,Spain,Retail,1.303853955,-0.265597168
+2021,Spain,Retail,1.389686099,0.065829569
+2022,Spain,Retail,1.318247126,-0.051406553
+2019,Spain,"Technology, Information and Media",1.850438224,
+2020,Spain,"Technology, Information and Media",1.350896337,-0.269958695
+2021,Spain,"Technology, Information and Media",1.619967532,0.199179751
+2022,Spain,"Technology, Information and Media",1.669907754,0.030827915
+2019,Spain,"Transportation, Logistics, Supply Chain and Storage",1.929149798,
+2020,Spain,"Transportation, Logistics, Supply Chain and Storage",1.29916318,-0.326561793
+2021,Spain,"Transportation, Logistics, Supply Chain and Storage",1.396412037,0.074854998
+2022,Spain,"Transportation, Logistics, Supply Chain and Storage",1.278602202,-0.084366098
+2019,Spain,Wholesale,1.891986063,
+2020,Spain,Wholesale,1.423036649,-0.247860924
+2021,Spain,Wholesale,1.482285714,0.041635656
+2022,Spain,Wholesale,1.493873704,0.007817649
+2019,Sweden,Manufacturing,0.757840992,
+2020,Sweden,Manufacturing,1.598909657,1.109822079
+2021,Sweden,Manufacturing,1.845339845,0.154123897
+2022,Sweden,Manufacturing,1.822454308,-0.012401801
+2019,Sweden,Professional Services,0.696151924,
+2020,Sweden,Professional Services,1.4077597,1.022201837
+2021,Sweden,Professional Services,1.472049689,0.045668298
+2022,Sweden,Professional Services,1.497329773,0.01717339
+2019,Sweden,"Technology, Information and Media",0.714285714,
+2020,Sweden,"Technology, Information and Media",1.492416582,1.089383215
+2021,Sweden,"Technology, Information and Media",1.527932961,0.023797899
+2022,Sweden,"Technology, Information and Media",1.476151981,-0.033889563
+2019,Switzerland,Accommodation and Food Services,1.089463221,
+2020,Switzerland,Accommodation and Food Services,1.208199872,0.108986379
+2021,Switzerland,Accommodation and Food Services,1.296428571,0.07302492
+2022,Switzerland,Accommodation and Food Services,1.374240583,0.060020285
+2019,Switzerland,Administrative and Support Services,1.627560521,
+2020,Switzerland,Administrative and Support Services,1.584401709,-0.026517485
+2021,Switzerland,Administrative and Support Services,1.519713262,-0.040828312
+2022,Switzerland,Administrative and Support Services,1.644,0.081783019
+2019,Switzerland,Consumer Services,1.341897233,
+2020,Switzerland,Consumer Services,1.577255871,0.175392446
+2021,Switzerland,Consumer Services,1.586766542,0.006029884
+2022,Switzerland,Consumer Services,1.529608939,-0.036021432
+2019,Switzerland,Education,1.718971631,
+2020,Switzerland,Education,1.896952909,0.103539392
+2021,Switzerland,Education,1.884222474,-0.006710991
+2022,Switzerland,Education,1.6994077,-0.098085432
+2019,Switzerland,Financial Services,1.675691937,
+2020,Switzerland,Financial Services,1.785101404,0.065292113
+2021,Switzerland,Financial Services,1.865843949,0.045231349
+2022,Switzerland,Financial Services,1.912393162,0.024948074
+2019,Switzerland,Government Administration,1.451327434,
+2020,Switzerland,Government Administration,1.348387097,-0.070928403
+2021,Switzerland,Government Administration,1.391902215,0.032271978
+2022,Switzerland,Government Administration,1.510014306,0.084856601
+2019,Switzerland,Hospitals and Health Care,1.806324111,
+2020,Switzerland,Hospitals and Health Care,1.911904762,0.058450557
+2021,Switzerland,Hospitals and Health Care,1.882882883,-0.015179563
+2022,Switzerland,Hospitals and Health Care,1.949454906,0.035356433
+2019,Switzerland,Manufacturing,1.720175439,
+2020,Switzerland,Manufacturing,1.790651219,0.040970112
+2021,Switzerland,Manufacturing,1.868592528,0.043526796
+2022,Switzerland,Manufacturing,2.036512027,0.089864161
+2019,Switzerland,Professional Services,1.617957746,
+2020,Switzerland,Professional Services,1.724836711,0.066057945
+2021,Switzerland,Professional Services,1.900444444,0.101811222
+2022,Switzerland,Professional Services,1.956907478,0.029710436
+2019,Switzerland,Retail,1.63566879,
+2020,Switzerland,Retail,1.677905945,0.02582256
+2021,Switzerland,Retail,1.846452867,0.100450757
+2022,Switzerland,Retail,1.963845522,0.06357739
+2019,Switzerland,"Technology, Information and Media",1.499228395,
+2020,Switzerland,"Technology, Information and Media",1.498247371,-0.000654353
+2021,Switzerland,"Technology, Information and Media",1.504664179,0.004282876
+2022,Switzerland,"Technology, Information and Media",1.667065391,0.107931865
+2019,Thailand,Education,0.996183206,
+2020,Thailand,Education,0.907142857,-0.0893815
+2021,Thailand,Education,1.062653563,0.171429124
+2022,Thailand,Education,1.064272212,0.001523214
+2019,Thailand,Manufacturing,1.233167082,
+2020,Thailand,Manufacturing,1.020145044,-0.172743857
+2021,Thailand,Manufacturing,1.07566638,0.054424943
+2022,Thailand,Manufacturing,0.952804378,-0.114219432
+2019,Thailand,Professional Services,1.151172893,
+2020,Thailand,Professional Services,1.034594595,-0.101269148
+2021,Thailand,Professional Services,1.031536697,-0.002955648
+2022,Thailand,Professional Services,1.130873786,0.096300102
+2019,Thailand,"Technology, Information and Media",1.34516129,
+2020,Thailand,"Technology, Information and Media",1.064788732,-0.208430439
+2021,Thailand,"Technology, Information and Media",0.942754919,-0.114608475
+2022,Thailand,"Technology, Information and Media",1.289828431,0.368148184
+2019,Turkey,Construction,0.700712589,
+2020,Turkey,Construction,0.823457544,0.175171614
+2021,Turkey,Construction,0.6531151,-0.206862449
+2022,Turkey,Construction,0.60015804,-0.081083809
+2019,Turkey,Education,0.519969857,
+2020,Turkey,Education,0.720116618,0.384919931
+2021,Turkey,Education,0.636846096,-0.115634774
+2022,Turkey,Education,0.647284836,0.016391308
+2019,Turkey,Manufacturing,0.553887221,
+2020,Turkey,Manufacturing,0.738948348,0.334113373
+2021,Turkey,Manufacturing,0.618470316,-0.163039856
+2022,Turkey,Manufacturing,0.50182357,-0.188605246
+2019,Turkey,Professional Services,0.474770642,
+2020,Turkey,Professional Services,0.718238994,0.512812566
+2021,Turkey,Professional Services,0.610116383,-0.150538486
+2022,Turkey,Professional Services,0.813618782,0.333546852
+2019,Turkey,"Technology, Information and Media",0.532569361,
+2020,Turkey,"Technology, Information and Media",0.795970696,0.494585973
+2021,Turkey,"Technology, Information and Media",0.705664111,-0.113454661
+2022,Turkey,"Technology, Information and Media",0.959821996,0.36016836
+2019,United Arab Emirates,Accommodation and Food Services,0.604491292,
+2020,United Arab Emirates,Accommodation and Food Services,0.963577422,0.594030276
+2021,United Arab Emirates,Accommodation and Food Services,1.423862115,0.477683145
+2022,United Arab Emirates,Accommodation and Food Services,1.44629088,0.015752062
+2019,United Arab Emirates,Administrative and Support Services,0.653781513,
+2020,United Arab Emirates,Administrative and Support Services,1.050064599,0.60613994
+2021,United Arab Emirates,Administrative and Support Services,1.421683139,0.353900645
+2022,United Arab Emirates,Administrative and Support Services,1.595780795,0.122458832
+2019,United Arab Emirates,Construction,0.770036668,
+2020,United Arab Emirates,Construction,1.179814896,0.532154175
+2021,United Arab Emirates,Construction,1.234501845,0.046352143
+2022,United Arab Emirates,Construction,1.365140171,0.105822706
+2019,United Arab Emirates,Education,0.512888889,
+2020,United Arab Emirates,Education,0.990123457,0.930483343
+2021,United Arab Emirates,Education,1.201067116,0.213047835
+2022,United Arab Emirates,Education,1.45014898,0.207383801
+2019,United Arab Emirates,Financial Services,0.733421751,
+2020,United Arab Emirates,Financial Services,1.061054579,0.446718178
+2021,United Arab Emirates,Financial Services,1.355047804,0.27707644
+2022,United Arab Emirates,Financial Services,1.891101695,0.395597771
+2019,United Arab Emirates,Government Administration,0.738406659,
+2020,United Arab Emirates,Government Administration,1.160789845,0.572019742
+2021,United Arab Emirates,Government Administration,1.480234834,0.27519623
+2022,United Arab Emirates,Government Administration,1.410423453,-0.047162369
+2019,United Arab Emirates,Hospitals and Health Care,0.835791544,
+2020,United Arab Emirates,Hospitals and Health Care,1.619932432,0.93820151
+2021,United Arab Emirates,Hospitals and Health Care,1.775217933,0.095859245
+2022,United Arab Emirates,Hospitals and Health Care,1.830873741,0.031351536
+2019,United Arab Emirates,Manufacturing,0.667568898,
+2020,United Arab Emirates,Manufacturing,1.129277136,0.691626347
+2021,United Arab Emirates,Manufacturing,1.392764081,0.233323546
+2022,United Arab Emirates,Manufacturing,1.624080882,0.166084698
+2019,United Arab Emirates,"Oil, Gas, and Mining",0.753801593,
+2020,United Arab Emirates,"Oil, Gas, and Mining",1.340684661,0.778564377
+2021,United Arab Emirates,"Oil, Gas, and Mining",1.363786917,0.017231685
+2022,United Arab Emirates,"Oil, Gas, and Mining",1.501475718,0.100960641
+2019,United Arab Emirates,Professional Services,0.693153834,
+2020,United Arab Emirates,Professional Services,1.110321297,0.601839654
+2021,United Arab Emirates,Professional Services,1.425817113,0.284148217
+2022,United Arab Emirates,Professional Services,1.837668569,0.288852933
+2019,United Arab Emirates,Retail,0.645679839,
+2020,United Arab Emirates,Retail,1.133632287,0.755718884
+2021,United Arab Emirates,Retail,1.536090835,0.355016837
+2022,United Arab Emirates,Retail,1.734623359,0.129245302
+2019,United Arab Emirates,"Technology, Information and Media",0.672321429,
+2020,United Arab Emirates,"Technology, Information and Media",1.058566267,0.574494315
+2021,United Arab Emirates,"Technology, Information and Media",1.434979757,0.355588026
+2022,United Arab Emirates,"Technology, Information and Media",1.877653086,0.308487508
+2019,United Arab Emirates,"Transportation, Logistics, Supply Chain and Storage",0.689771198,
+2020,United Arab Emirates,"Transportation, Logistics, Supply Chain and Storage",1.051512495,0.524436651
+2021,United Arab Emirates,"Transportation, Logistics, Supply Chain and Storage",1.115103127,0.060475394
+2022,United Arab Emirates,"Transportation, Logistics, Supply Chain and Storage",1.744608675,0.564526753
+2019,United Kingdom,Accommodation and Food Services,0.941409567,
+2020,United Kingdom,Accommodation and Food Services,1.02423126,0.08797626
+2021,United Kingdom,Accommodation and Food Services,1.120562263,0.094052005
+2022,United Kingdom,Accommodation and Food Services,1.53856383,0.373028416
+2019,United Kingdom,Administrative and Support Services,0.808114772,
+2020,United Kingdom,Administrative and Support Services,1.010047281,0.249880977
+2021,United Kingdom,Administrative and Support Services,1.13447099,0.123186024
+2022,United Kingdom,Administrative and Support Services,1.267365824,0.117142558
+2019,United Kingdom,Construction,0.854955338,
+2020,United Kingdom,Construction,1.025677267,0.199685202
+2021,United Kingdom,Construction,1.250889193,0.219573869
+2022,United Kingdom,Construction,1.427638454,0.141298895
+2019,United Kingdom,Consumer Services,0.956831331,
+2020,United Kingdom,Consumer Services,0.997510532,0.042514496
+2021,United Kingdom,Consumer Services,1.304520965,0.307776633
+2022,United Kingdom,Consumer Services,1.562937908,0.198093361
+2019,United Kingdom,Education,0.996909341,
+2020,United Kingdom,Education,1.049656111,0.052910298
+2021,United Kingdom,Education,1.347424989,0.283682318
+2022,United Kingdom,Education,1.667514025,0.237556108
+2019,United Kingdom,Entertainment Providers,0.795071336,
+2020,United Kingdom,Entertainment Providers,0.900410522,0.132490232
+2021,United Kingdom,Entertainment Providers,1.039637599,0.154626222
+2022,United Kingdom,Entertainment Providers,1.219269103,0.172782808
+2019,United Kingdom,Financial Services,0.893059566,
+2020,United Kingdom,Financial Services,0.965254427,0.080839917
+2021,United Kingdom,Financial Services,1.171509234,0.213679214
+2022,United Kingdom,Financial Services,1.602766319,0.368120944
+2019,United Kingdom,Government Administration,0.793340671,
+2020,United Kingdom,Government Administration,0.873557451,0.101112653
+2021,United Kingdom,Government Administration,0.985598434,0.128258288
+2022,United Kingdom,Government Administration,1.138650134,0.155288092
+2019,United Kingdom,Hospitals and Health Care,1.084310019,
+2020,United Kingdom,Hospitals and Health Care,1.292178962,0.19170619
+2021,United Kingdom,Hospitals and Health Care,1.715454545,0.327567308
+2022,United Kingdom,Hospitals and Health Care,2.073598334,0.208774863
+2019,United Kingdom,Manufacturing,0.8372784,
+2020,United Kingdom,Manufacturing,0.903912184,0.079583785
+2021,United Kingdom,Manufacturing,1.062584395,0.17553941
+2022,United Kingdom,Manufacturing,1.394789579,0.31263887
+2019,United Kingdom,"Oil, Gas, and Mining",0.783671037,
+2020,United Kingdom,"Oil, Gas, and Mining",0.89664311,0.144157519
+2021,United Kingdom,"Oil, Gas, and Mining",1.048888889,0.169795293
+2022,United Kingdom,"Oil, Gas, and Mining",1.282296651,0.222528586
+2019,United Kingdom,Professional Services,0.980423778,
+2020,United Kingdom,Professional Services,1.016341237,0.036634626
+2021,United Kingdom,Professional Services,1.292267897,0.271490176
+2022,United Kingdom,Professional Services,1.764053045,0.365083083
+2019,United Kingdom,Real Estate and Equipment Rental Services,0.837816456,
+2020,United Kingdom,Real Estate and Equipment Rental Services,0.872413793,0.04129465
+2021,United Kingdom,Real Estate and Equipment Rental Services,0.933087028,0.069546396
+2022,United Kingdom,Real Estate and Equipment Rental Services,1.091676719,0.169962379
+2019,United Kingdom,Retail,0.869588455,
+2020,United Kingdom,Retail,0.960404151,0.104435259
+2021,United Kingdom,Retail,1.107072042,0.152714762
+2022,United Kingdom,Retail,1.496346555,0.351625277
+2019,United Kingdom,"Technology, Information and Media",0.932145639,
+2020,United Kingdom,"Technology, Information and Media",1.014499975,0.088349216
+2021,United Kingdom,"Technology, Information and Media",1.260878862,0.24285746
+2022,United Kingdom,"Technology, Information and Media",1.602902847,0.271258401
+2019,United Kingdom,"Transportation, Logistics, Supply Chain and Storage",0.831898505,
+2020,United Kingdom,"Transportation, Logistics, Supply Chain and Storage",0.981582986,0.179931182
+2021,United Kingdom,"Transportation, Logistics, Supply Chain and Storage",1.131592689,0.15282427
+2022,United Kingdom,"Transportation, Logistics, Supply Chain and Storage",1.357471853,0.19961172
+2019,United Kingdom,Utilities,0.762219287,
+2020,United Kingdom,Utilities,0.933988764,0.22535441
+2021,United Kingdom,Utilities,1.072315559,0.148103275
+2022,United Kingdom,Utilities,1.42394015,0.327911488
+2019,United Kingdom,Wholesale,0.824433065,
+2020,United Kingdom,Wholesale,0.861305361,0.044724427
+2021,United Kingdom,Wholesale,1.071204657,0.243699047
+2022,United Kingdom,Wholesale,1.370160529,0.279083805
+2019,United States,Accommodation and Food Services,1.363408521,
+2020,United States,Accommodation and Food Services,0.839773388,-0.384063269
+2021,United States,Accommodation and Food Services,1.082072617,0.288529302
+2022,United States,Accommodation and Food Services,1.447528187,0.33773664
+2019,United States,Administrative and Support Services,1.63536379,
+2020,United States,Administrative and Support Services,1.073389021,-0.343638995
+2021,United States,Administrative and Support Services,1.566868983,0.459740086
+2022,United States,Administrative and Support Services,1.832797175,0.169719482
+2019,United States,Construction,1.481376263,
+2020,United States,Construction,0.985126521,-0.334992368
+2021,United States,Construction,1.219904783,0.238322954
+2022,United States,Construction,1.606484893,0.316893675
+2019,United States,Consumer Services,1.609749455,
+2020,United States,Consumer Services,1.011626196,-0.371562952
+2021,United States,Consumer Services,1.284580499,0.269817354
+2022,United States,Consumer Services,1.426736441,0.11066332
+2019,United States,Education,2.3394979,
+2020,United States,Education,1.251336414,-0.46512608
+2021,United States,Education,1.976691926,0.579664672
+2022,United States,Education,2.037803693,0.030916182
+2019,United States,Entertainment Providers,1.420286278,
+2020,United States,Entertainment Providers,0.878470403,-0.381483567
+2021,United States,Entertainment Providers,1.043563757,0.187932745
+2022,United States,Entertainment Providers,1.221249103,0.170267838
+2019,United States,Financial Services,1.523048944,
+2020,United States,Financial Services,0.893899578,-0.413085455
+2021,United States,Financial Services,1.190625474,0.331945449
+2022,United States,Financial Services,1.510111666,0.268334752
+2019,United States,Government Administration,1.557425018,
+2020,United States,Government Administration,0.998407326,-0.358937147
+2021,United States,Government Administration,1.143025222,0.144848593
+2022,United States,Government Administration,1.181284896,0.033472292
+2019,United States,Hospitals and Health Care,1.927839278,
+2020,United States,Hospitals and Health Care,1.278374488,-0.336887415
+2021,United States,Hospitals and Health Care,1.559090909,0.219588566
+2022,United States,Hospitals and Health Care,1.771911543,0.136503031
+2019,United States,Manufacturing,1.424428144,
+2020,United States,Manufacturing,0.865682567,-0.392259574
+2021,United States,Manufacturing,1.105569353,0.277107101
+2022,United States,Manufacturing,1.35659019,0.22705119
+2019,United States,"Oil, Gas, and Mining",1.39295302,
+2020,United States,"Oil, Gas, and Mining",0.80141448,-0.424665105
+2021,United States,"Oil, Gas, and Mining",0.963656885,0.202445063
+2022,United States,"Oil, Gas, and Mining",1.24878876,0.295885267
+2019,United States,Professional Services,1.524361201,
+2020,United States,Professional Services,0.965408211,-0.366680147
+2021,United States,Professional Services,1.314531185,0.361632489
+2022,United States,Professional Services,1.797722524,0.367576931
+2019,United States,Real Estate and Equipment Rental Services,1.462886598,
+2020,United States,Real Estate and Equipment Rental Services,0.994228433,-0.320365342
+2021,United States,Real Estate and Equipment Rental Services,1.278321678,0.285742427
+2022,United States,Real Estate and Equipment Rental Services,1.5,0.173413567
+2019,United States,Retail,1.466966004,
+2020,United States,Retail,0.912554427,-0.37793076
+2021,United States,Retail,1.129531511,0.237768925
+2022,United States,Retail,1.350500899,0.195629237
+2019,United States,"Technology, Information and Media",1.785775447,
+2020,United States,"Technology, Information and Media",1.038186158,-0.418635664
+2021,United States,"Technology, Information and Media",1.358280404,0.308320665
+2022,United States,"Technology, Information and Media",1.690861467,0.244854495
+2019,United States,"Transportation, Logistics, Supply Chain and Storage",1.518862449,
+2020,United States,"Transportation, Logistics, Supply Chain and Storage",0.93972558,-0.381296456
+2021,United States,"Transportation, Logistics, Supply Chain and Storage",1.255840241,0.336390397
+2022,United States,"Transportation, Logistics, Supply Chain and Storage",1.643539376,0.308716923
+2019,United States,Utilities,1.360717658,
+2020,United States,Utilities,0.855184744,-0.371519331
+2021,United States,Utilities,1.120364346,0.31008458
+2022,United States,Utilities,1.388925081,0.239708391
+2019,United States,Wholesale,1.558702791,
+2020,United States,Wholesale,0.867692308,-0.443324082
+2021,United States,Wholesale,1.091048593,0.257414159
+2022,United States,Wholesale,1.276511397,0.169985833
